@@ -1,0 +1,4 @@
+2026-06-01 16:57:51,668 - mi_pipeline - INFO - Pipeline iniciado
+2026-06-01 16:57:51,668 - mi_pipeline - WARNING - Dataset tiene valores nulos
+2026-06-01 16:57:51,668 - mi_pipeline - ERROR - No se pudo conectar a la base de datos
+2026-06-01 16:57:51,668 - mi_pipeline - INFO - Pipeline finalizado
