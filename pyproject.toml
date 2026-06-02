@@ -1,0 +1,12 @@
+[tool.black]
+line-length = 88
+target-version = ["py39"]
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "W"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["01_python_for_data/tests"]
+verbose = true
