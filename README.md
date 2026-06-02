@@ -17,4 +17,4 @@ pip install -r requirements.txt
 
 ## Estado actual
 - [x] Setup completo
-- [ ] En curso: Modulo 01 - Python para datos
+- [x] Modulo 01 - Python para datos ✅
